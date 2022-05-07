@@ -1,1 +1,1 @@
-# CV
+# CV Chornovol Olena Frontend Developer
